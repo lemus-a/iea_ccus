@@ -1,3 +1,3 @@
 ## READ ME 
 
-Repository for IEA data vizualization project using IEA's CCUS Projects Database
+Repository for data cleaning and vizualization project using IEA's CCUS Projects Database
